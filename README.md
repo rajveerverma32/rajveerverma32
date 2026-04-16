@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer focused on building performant web applications with Angular, React, Node.js, and MongoDB. Built<br>and deployed a production college sports platform with Server-Side Rendering (SSR), JWT authentication, admin workflows,<br>and modular frontend architecture. Completed two software engineering internships delivering frontend systems, backend<br>optimizations, and scalable database solutions. Seeking frontend or full-stack engineering roles focused on product quality,<br>performance, and user experience.<br>
+Full-stack developer specializing in Angular, React, Node.js, and MongoDB. Built scalable web apps with SSR, JWT auth, admin dashboards, and modular architecture. Completed software engineering internships focused on frontend systems and backend optimization. Open to frontend and full-stack opportunities..<br>
 
 
 ## 🌐 Socials:
